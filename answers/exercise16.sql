@@ -1,0 +1,1 @@
+ALTER TABLE Students COLUMN City <> TO 'Edinburgh';
